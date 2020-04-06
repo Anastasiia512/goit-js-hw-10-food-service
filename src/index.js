@@ -1,4 +1,5 @@
 import { Theme } from './themes';
+import markup from './markup';
 import './styles.css';
 
 const input = document.querySelector('input.js-switch-input');
